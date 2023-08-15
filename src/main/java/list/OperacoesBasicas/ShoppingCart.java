@@ -2,11 +2,10 @@ package main.java.list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.ListIterator;
 
 public class ShoppingCart {
 	
-	List<Item> itemList;
+	private List<Item> itemList;
 
 	public ShoppingCart() {
 		this.itemList = new ArrayList<>();
