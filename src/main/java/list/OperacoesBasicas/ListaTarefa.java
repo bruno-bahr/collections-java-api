@@ -32,11 +32,6 @@ public class ListaTarefa {
 		System.out.println(tarefaList);
 	}
 	
-	
-	@Override
-	public String toString() {
-		return "ListaTarefa [tarefaList=" + tarefaList + "]";
-	}
 
 	public static void main(String[] args) {
 		ListaTarefa listaTarefa = new ListaTarefa();
