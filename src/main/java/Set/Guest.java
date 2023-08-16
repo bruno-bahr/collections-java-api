@@ -21,7 +21,6 @@ public class Guest {
 		return inviteNumber;
 	}
 	
-	
 
 	@Override
 	public int hashCode() {
